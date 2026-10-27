@@ -1,4 +1,4 @@
-# Headwind MDM - a platform for corporate Android applications
+git@github.com:h-mdm/hmdm-server.git# Headwind MDM - a platform for corporate Android applications
 
 Headwind MDM is a Mobile Device Management platform for Android devices, designed for corporate app developers and IT managers.
 
